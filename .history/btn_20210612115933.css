@@ -1,0 +1,33 @@
+body
+{
+    display: flex;
+    width: 100%;
+    height: 100%;
+}
+body > div
+{
+    margin: auto;
+   
+}
+/* Block  */
+.btn
+{
+    display: inline-block;
+    text-decoration: none;
+   background-color: transparent;
+   border: none;
+   outline: none;
+}
+.phu
+{
+    display: flex;
+    margin: 0;
+}
+.phu .aa
+{
+   
+    margin: auto;
+    width: 100px;
+    height: 100px;
+    background-color: red;
+}

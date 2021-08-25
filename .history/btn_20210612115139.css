@@ -1,0 +1,11 @@
+
+body > div
+{
+    margin: auto;
+}
+/* Block  */
+.btn
+{
+    display: inline-block;
+    text-decoration: none;
+}

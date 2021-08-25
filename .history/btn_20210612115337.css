@@ -1,0 +1,17 @@
+body
+{
+    display: flex;
+    margin: 0;
+    
+}
+body > div
+{
+    margin: auto;
+    align-items: center;
+}
+/* Block  */
+.btn
+{
+    display: inline-block;
+    text-decoration: none;
+}

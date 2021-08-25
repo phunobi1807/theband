@@ -1,0 +1,14 @@
+body
+{
+    display: flex;
+}
+body > div
+{
+    margin: 0;
+}
+/* Block  */
+.btn
+{
+    display: inline-block;
+    text-decoration: none;
+}
